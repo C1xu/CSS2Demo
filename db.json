@@ -30,6 +30,14 @@
 			"location": "Valletta",
 			"date": "1st of Jan",
 			"time": "12.00"
+		},
+		{
+			"id": 5,
+			"title": "Task 5",
+			"description": "Description for task 5",
+			"location": "Valletta",
+			"date": "1st of Jan",
+			"time": "12.00"
 		}
 		  
 	]
